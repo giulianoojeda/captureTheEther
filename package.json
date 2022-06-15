@@ -1,0 +1,13 @@
+{
+  "name": "captureTheEther",
+  "version": "1",
+  "description": "THE GAME OF ETHEREUM SMART CONTRACT SECURITY",
+  "main": "index.js",
+  "repository": "git@github.com:giulianoojeda777/captureTheEther.git",
+  "author": "Giuliano Ojeda",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "web3": "^1.7.3"
+  }
+}
